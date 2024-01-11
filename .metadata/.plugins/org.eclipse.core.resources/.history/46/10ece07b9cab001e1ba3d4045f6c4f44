@@ -1,0 +1,10 @@
+package afterclass.inheritance_;
+
+public class InheritanceExample_ {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

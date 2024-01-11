@@ -1,0 +1,7 @@
+package afterclass.inheritance_;
+
+public class SalaryMan extends Human_{
+
+	public String companyName;
+	public int money;
+}

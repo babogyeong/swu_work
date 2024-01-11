@@ -1,0 +1,15 @@
+package struct;
+
+public class Student {
+	
+	public String name;
+	public String grade;
+	public int age;
+	
+	public void studentInfo() {
+		System.out.println("학생의 이름 :"+ name);
+		System.out.println("학생의 성적 :" + grade);
+		System.out.println("학생의 나이 :" +age);
+	}
+
+}
